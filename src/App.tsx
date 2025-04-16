@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { LineChart, BarChart, ScatterChart } from "recharts";
 import {
   MapPin,
   Calendar,
